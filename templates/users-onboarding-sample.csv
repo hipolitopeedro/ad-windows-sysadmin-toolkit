@@ -1,0 +1,3 @@
+FirstName,LastName,SamAccountName,DomainSuffix,Title,Department,TargetOU,Groups
+Lucas,Almeida,lucas.almeida,corp.example.com,Network Analyst,IT Infrastructure,"OU=IT,OU=Users,DC=corp,DC=example,DC=com","GRP_IT_Infra;GRP_VPN_Users"
+Mariana,Costa,mariana.costa,corp.example.com,Systems Support,Helpdesk,"OU=Support,OU=Users,DC=corp,DC=example,DC=com","GRP_Helpdesk;GRP_VPN_Users"
