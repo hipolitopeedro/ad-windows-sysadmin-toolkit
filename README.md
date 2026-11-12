@@ -1,16 +1,16 @@
-# 🛠️ AD & Windows Server SysAdmin Toolkit
+# AD & Windows Server SysAdmin Toolkit
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-00599C?style=for-the-badge&logo=microsoft&logoColor=white)
 
-> 🇺🇸 **English:** Collection of PowerShell scripts designed to automate routine **Active Directory (AD DS)** and **Windows Server** administration, security auditing, and server health monitoring.
+> **English:** Collection of PowerShell scripts designed to automate routine **Active Directory (AD DS)** and **Windows Server** administration, security auditing, and server health monitoring.
 >
-> 🇧🇷 **Português:** Coleção de scripts em PowerShell desenvolvidos para automatizar rotinas de administração do **Active Directory (AD DS)** e **Windows Server**, auditoria de segurança e monitoramento de saúde de servidores.
+> **Português:** Coleção de scripts em PowerShell desenvolvidos para automatizar rotinas de administração do **Active Directory (AD DS)** e **Windows Server**, auditoria de segurança e monitoramento de saúde de servidores.
 
 ---
 
-## 📂 Included Scripts / Scripts Inclusos
+## Included Scripts / Scripts Inclusos
 
 | Script | Description (EN) | Descrição (PT-BR) |
 | :--- | :--- | :--- |
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Usage Examples / Exemplos de Uso
+## Usage Examples / Exemplos de Uso
 
 ### 1. Inactive AD Users Audit / Auditoria de Usuários Inativos
 ```powershell
@@ -51,7 +51,7 @@
 
 ---
 
-## 🔒 Security Best Practices / Boas Práticas de Segurança
+## Security Best Practices / Boas Práticas de Segurança
 
 - **No Hardcoded Credentials:** None of the scripts store passwords, domain names, or internal IPs in plain text.
 - **Least Privilege:** Run Active Directory scripts with an account that has delegated permissions only for the target Organizational Units (OUs).
